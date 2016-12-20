@@ -53,7 +53,7 @@ endif
 # Chrome browser selection
 # By default, Chrome will be the only preloaded system browser
 # Use ChromeWithBrowser, if Chrome is preloaded along with another browser side-by-sde
-PRODUCT_PACKAGES += Chrome
+#PRODUCT_PACKAGES += Chrome
 #PRODUCT_PACKAGES += ChromeWithBrowser
 #
 # Uncomment the following line if customized homepage provider for Chrome should be installed
