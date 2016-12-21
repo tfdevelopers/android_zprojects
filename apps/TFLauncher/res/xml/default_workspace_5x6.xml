@@ -120,5 +120,8 @@
         <favorite
             launcher:packageName="com.android.browser"
             launcher:className="com.android.browser.BrowserActivity" />
+            <favorite
+            launcher:packageName="org.cyanogenmod.gello.browser"
+            launcher:className="com.android.browser.BrowserLauncher" />
     </resolve>
 </favorites>
