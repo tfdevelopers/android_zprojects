@@ -10,7 +10,7 @@ cp -rf zprojects/overlay/packages .
 cp -rf zprojects/overlay/frameworks .
 make -j27 dist
 rm out/target/product/k15tb_a/recovery.img
-cp device/vernee/k15tb_a/TFApolloTWRPrecovery.img out/target/product/k15tb_a/recovery.img
+cp device/vernee/k15tb_a/TFTWRPrecoveryApolloLite.img out/target/product/k15tb_a/recovery.img
 #rm -r out/target/product/k15tb_a/ROM/
 #mkdir out/target/product/k15tb_a/ROM
 #cp out/target/product/k15tb_a/boot.img out/target/product/k15tb_a/ROM/
