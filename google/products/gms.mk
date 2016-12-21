@@ -111,5 +111,5 @@ PRODUCT_PACKAGES += \
 
 # Overrides
 PRODUCT_PROPERTY_OVERRIDES += \
-    ro.setupwizard.mode=OPTIONAL \
+    ro.setupwizard.mode=DISABLED \
     ro.com.google.gmsversion=6.0
