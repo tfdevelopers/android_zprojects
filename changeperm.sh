@@ -21,7 +21,7 @@ cp device/nomu/s30/UPDATE-SuperSU-v2.76systemless.zip out/target/product/s30/sys
 rm out/target/product/s30/system/unroot.zip
 rm device/nomu/s30/unroot/boot.img
 cp out/target/product/s30/boot.img device/nomu/s30/unroot/boot.img
-cd device/nb/k15tb_a/unroot/
+cd device/nomu/s30/unroot/
 zip -6 -r ../../../../out/target/product/s30/system/unroot.zip .
 cd ../../../../
 
